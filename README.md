@@ -1,5 +1,5 @@
-# Freddie-Mac-Capstone-Project_California
-# Next Month Loan Performance Prediction & Analysis
+# Freddie-Mac-Capstone-Project__California
+## Next Month Loan Performance Prediction & Analysis
 
 ## Project Overview
 This project, conducted in collaboration with Freddie Mac, focuses on predicting loan transitions within 60 days in California using data spanning from 1999 to 2024. By analyzing historical trends across various economic conditions (e.g., the Great Recession, COVID-19 pandemic), the project aims to identify patterns in loan performance and enhance Freddie Mac's financial decision-making capabilities.
@@ -27,6 +27,7 @@ This project, conducted in collaboration with Freddie Mac, focuses on predicting
   - Focused on records where delinquency status equals 2 (over 60 days past due).
   - Generated approximately 480k records by including corresponding next-month records.
 <img width="1101" alt="feature selection" src="https://github.com/user-attachments/assets/35d2ccd5-65d2-4282-9fca-d284c981bffb" />
+
 - **Feature Engineering**:
   - Created features like `LTV_Difference`, `Loan_Age_Percentage`, and dynamic unemployment rate changes.
 
