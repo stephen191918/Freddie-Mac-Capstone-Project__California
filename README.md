@@ -1,4 +1,4 @@
-# Freddie-Mac-Capstone-Project__California
+# Freddie-Mac-Capstone-Project_California
 # Next Month Loan Performance Prediction & Analysis
 
 ## Project Overview
@@ -26,6 +26,7 @@ This project, conducted in collaboration with Freddie Mac, focuses on predicting
 - **Feature Selection**:
   - Focused on records where delinquency status equals 2 (over 60 days past due).
   - Generated approximately 480k records by including corresponding next-month records.
+  - <img width="1101" alt="feature selection" src="https://github.com/user-attachments/assets/35d2ccd5-65d2-4282-9fca-d284c981bffb" />
 - **Feature Engineering**:
   - Created features like `LTV_Difference`, `Loan_Age_Percentage`, and dynamic unemployment rate changes.
 
